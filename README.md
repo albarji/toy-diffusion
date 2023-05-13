@@ -6,10 +6,7 @@ A simple pytorch network learns to predict the noise component in a data sample.
 
 Here is an example of generation of samples for a 2D swiss roll distribution:
 
-<div align="middle">
-<video width="80%" controls>
-      <source src="swissroll_generation.mp4" type="video/mp4">
-</video></div>
+![alt text](swissroll_generation.gif "Swiss Roll generation")
 
 ## References
 
