@@ -9,9 +9,6 @@ dependencies:
   - jupyter=1.0.*
   - numpy=1.24.*
   - pytorch=2.0.*
-  - pytorch-cuda=11.8
+  - pytorch-cuda=11.7
   - seaborn=0.12.*
   - scikit-learn=1.2.*
-  - tqdm=4.65.*
-  - pip:
-    - einops==0.6.*
